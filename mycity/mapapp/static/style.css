@@ -1,7 +1,10 @@
-        body{      
-                <h1>name:SACHIN</h1>
-                reg no:25007184
-            background-color:red;
-            color:aqua;
+        body
+        {<h1>SACHIN  J M(25007184)</h1>
+            background-color: red;
+            color: red;
         }
-    
+
+        h2
+        {
+            color: red;
+        }
